@@ -1,0 +1,135 @@
+@media (max-width: 575.98px) { 
+
+nav ul{
+    text-align: center;
+    padding: 10px 0;
+    z-index: 9;
+}
+.nav_menu ul li a{
+   padding: 0 0px !important;
+}
+h1{
+    font-size: 35px !important;
+    line-height: 1.2 !important;
+}
+p{
+    font-size: 12px !important;
+    line-height: 1.2 !important;
+}
+h4{
+    font-size: 12px !important;
+}
+h3{
+    font-size: 16px !important;
+}
+.slide_item {
+	padding: 250px 0 !important;
+}
+
+.banner_main .banner_item{
+	top: 150px !important;
+}
+.banner_item h1 {
+    padding-bottom: 15px !important;
+  }
+  
+  .banner_item p {
+    padding-bottom: 30px !important;
+  }
+  #team .team_item{
+    padding-bottom: 30px;
+   }
+.clients_slide{
+    padding: 30px 0;
+}
+#team {
+	padding: 50px 0 !important;
+}
+
+
+#dawnload h2 {
+    font-size: 20px !important;
+  }
+  
+  #dawnload a {
+    font-size: 12px !important;
+    padding: 15px 50px !important;
+  }
+  
+  #dawnload {
+    padding: 50px 0 !important;
+  }
+  #dawnload h3 {
+	padding: 10px 0 20px 0 !important;
+}
+.footer_icon {
+	padding: 15px !important;
+}
+.footer_top{
+    padding: 30px 0!important;
+}
+
+
+
+
+
+ }
+
+ @media (min-width: 576px) and (max-width: 767.98px) { 
+    .work_item img {
+        height: 250px !important;
+    }
+    h1{
+        font-size: 40px !important;
+        line-height: 1.2 !important;
+    }
+    p{
+        font-size: 13px !important;
+        line-height: 1.2 !important;
+    }
+    h4{
+        font-size: 13px !important;
+    }
+    h3{
+        font-size: 18px !important;
+    }
+    #team .team_item{
+        padding-bottom: 30px;
+       }
+    .clients_slide{
+        padding: 30px 0;
+    }
+    #team {
+        padding: 50px 0 !important;
+    }
+    .slide_item {
+        padding: 300px 0 !important;
+    }    
+
+
+  }
+
+
+  @media (min-width: 768px) and (max-width:991.98px) { 
+.team_item{
+    padding-bottom: 30px;
+}
+.clients_slide{
+    padding: 30px 0;
+}
+
+   }
+   @media (min-width:992px) and (max-width: 1199.98px) { 
+    .work_item img {
+        height: 250px !important;
+    }
+  
+
+    }
+
+    @media (min-width:1200px) and (max-width: 1399.98px) { 
+        .work_item img {
+            height: 300px !important;
+        }
+  
+     }
